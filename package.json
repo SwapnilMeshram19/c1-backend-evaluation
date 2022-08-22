@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "name": "c1-backend-evaluation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwapnilMeshram19/c1-backend-evaluation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwapnilMeshram19/c1-backend-evaluation/issues"
+  },
+  "homepage": "https://github.com/SwapnilMeshram19/c1-backend-evaluation#readme",
+  "description": ""
+}
